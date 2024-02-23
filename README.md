@@ -14,3 +14,11 @@ Ce programme Dart permet de créer une matrice carrée et de la colorier en fonc
 
    ```bash
    git clone https://github.com/onyxah/matrice_color.git
+
+
+3. **Executer le projet :**
+
+Executer ce projet sur votre machine en utilisant la commande suivante dans le terminal :
+
+```bash
+   dart run main.dart
