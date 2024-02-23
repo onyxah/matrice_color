@@ -13,4 +13,4 @@ Ce programme Dart permet de créer une matrice carrée et de la colorier en fonc
    Clonez ce projet sur votre machine en utilisant la commande suivante dans le terminal :
 
    ```bash
-   git clone https://github.com/votre_utilisateur/matricolor.git
+   git clone https://github.com/onyxah/matrice_color.git
